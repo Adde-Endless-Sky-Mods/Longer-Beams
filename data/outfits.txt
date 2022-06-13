@@ -1,0 +1,84 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Guns
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Beam Laser"
+	weapon
+		"velocity" 600
+outfit "Electron Beam"
+	weapon
+		"velocity" 900
+outfit "Ember Tear"
+	weapon
+		"velocity" 1600
+outfit "Heavy Laser"
+	weapon
+		"velocity" 800
+outfit "Ka'het Ravager Beam"
+	weapon
+		"velocity" 960
+outfit "Korath Disruptor Gun"
+	weapon
+		velocity 960
+outfit "Korath Fire-Lance"
+	weapon
+		"velocity" 700
+outfit "Korath Slicer"
+	weapon
+		"velocity" 1040
+outfit "Moonbeam"
+	weapon
+		"velocity" 980
+outfit "Pug Zapper"
+	weapon
+		"velocity" 640
+outfit "Sunbeam"
+	weapon
+		"velocity" 1080
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Turrets
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Dual Sunbeam Turret"
+	weapon
+		"velocity" 1080
+outfit "Electron Turret"
+	weapon
+		"velocity" 900
+outfit "Heavy Laser Turret"
+	weapon
+		"velocity" 800
+outfit "Heliarch Attractor"
+	weapon
+		"velocity" 1280
+outfit "Heliarch Repulsor"
+	weapon
+		"velocity" 1120
+outfit "Ka'het Ravager Turret"
+	weapon
+		"velocity" 960
+outfit "Korath Banisher"
+	weapon
+		"velocity" 1180
+outfit "Korath Disruptor"
+	weapon
+		"velocity" 960
+outfit "Korath Slicer Turret"
+	weapon
+		"velocity" 1040
+outfit "Laser Turret"
+	weapon
+		"velocity" 600
+outfit "Moonbeam Turret"
+	weapon
+		"velocity" 980
+outfit "Pug Zapper Turret"
+	weapon
+		"velocity" 640
+outfit "Quarg Skylance"
+	weapon
+		"velocity" 1000
+outfit "Sunbeam Turret"
+	weapon
+		"velocity" 1080
