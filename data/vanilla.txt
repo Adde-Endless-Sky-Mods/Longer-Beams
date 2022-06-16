@@ -17,9 +17,6 @@ outfit "Heavy Laser"
 outfit "Ka'het Ravager Beam"
 	weapon
 		"velocity" 960
-outfit "Korath Disruptor Gun"
-	weapon
-		velocity 960
 outfit "Korath Fire-Lance"
 	weapon
 		"velocity" 700

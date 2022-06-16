@@ -1,0 +1,7 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Guns
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Korath Disruptor Gun"
+	weapon
+		velocity 960
