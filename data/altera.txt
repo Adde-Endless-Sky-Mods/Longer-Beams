@@ -1,0 +1,15 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Guns
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Alteran Plasma Beam"
+	weapon
+		velocity 1000
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Turrets
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Alteran Plasma Turret"
+	weapon
+		velocity 1000
