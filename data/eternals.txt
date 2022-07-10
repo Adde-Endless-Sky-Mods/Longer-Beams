@@ -1,0 +1,15 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Guns
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Ares Beam"
+	weapon
+		"velocity" 800
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Turrets
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Ares Turret"
+	weapon
+		"velocity" 800
