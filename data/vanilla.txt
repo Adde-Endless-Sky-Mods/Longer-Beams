@@ -58,12 +58,6 @@ outfit "Electron Turret"
 	weapon
 		sprite ""
 		velocity 1350
-outfit "Anti-Missile Turret"
-	weapon
-		velocity 450
-outfit "Heavy Anti-Missile Turret"
-	weapon
-		velocity 600
 outfit "Particle Cannon"
 	weapon
 		velocity 90
@@ -216,9 +210,6 @@ outfit "Korath Banisher"
 	weapon
 		sprite ""
 		"velocity" 1770
-outfit "Korath Warder"
-	weapon
-		"velocity" 1050
 outfit "Korath Fire-Lance"
 	weapon
 		sprite ""
