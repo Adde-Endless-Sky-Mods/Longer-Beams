@@ -4,16 +4,16 @@
 
 outfit "Dragonflame Cannon"
 	weapon
-		"velocity" 6000
+		velocity 6000
 outfit "Particle Waveform Turret"
 	weapon
-		"velocity" 150
+		velocity 150
 outfit "Shard Fabricator"
 	weapon
-		"velocity" 45
+		velocity 45
 outfit "Heavy Ion Cyclotron"
 	weapon
-		"velocity" 28
+		velocity 28
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Human
@@ -128,19 +128,19 @@ outfit "Gatling Gun"
 
 outfit "Pulse Cannon"
 	weapon
-		"velocity" 45
+		velocity 45
 outfit "Pulse Turret"
 	weapon
-		"velocity" 45
+		velocity 45
 outfit "Ion Cannon"
 	weapon
-		"velocity" 48
+		velocity 48
 outfit "Railgun"
 	weapon
-		"velocity" 132
+		velocity 132
 outfit "Hai Tracker Pod"
 	weapon
-		"velocity" 42
+		velocity 42
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Remnant
@@ -148,23 +148,23 @@ outfit "Hai Tracker Pod"
 
 outfit "Inhibitor Cannon"
 	weapon
-		"velocity" 108
+		velocity 108
 outfit "Inhibitor Turret"
 	weapon
-		"velocity" 108
+		velocity 108
 outfit "Thrasher Cannon"
 	weapon
-		"velocity" 30
+		velocity 30
 outfit "Thrasher Turret"
 	weapon
-		"velocity" 30
+		velocity 30
 outfit "EMP Torpedo Bay"
 	weapon
-		"velocity" 21
+		velocity 21
 outfit "Ember Tear"
 	weapon
 		sprite ""
-		"velocity" 2400
+		velocity 2400
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Builder
@@ -172,32 +172,32 @@ outfit "Ember Tear"
 
 outfit "Ka'het Nullifier"
 	weapon
-		"velocity" 27
+		velocity 27
 outfit "Ka'het Ravager Beam"
 	weapon
 		sprite ""
-		"velocity" 1440
+		velocity 1440
 outfit "Ka'het Ravager Turret"
 	weapon
 		sprite ""
-		"velocity" 1440
+		velocity 1440
 outfit "Ka'het Annihilator"
 	weapon
-		"velocity" 54
+		velocity 54
 outfit "Ka'het Annihilator Turret"
 	weapon
 		"range override" 1890
 		"velocity override" 54
 outfit "Annihilator Projectile"
 	weapon
-		"velocity" 54
+		velocity 54
 outfit "Ka'het EMP Deployer"
 	weapon
-		"velocity" 21
+		velocity 21
 outfit "Ka'het Emergency Deployer"
 	weapon
 		"range override" 1200
-		"velocity" 36
+		velocity 36
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Korath
@@ -205,54 +205,54 @@ outfit "Ka'het Emergency Deployer"
 
 outfit "Korath Grab-Strike"
 	weapon
-		"velocity" 30
+		velocity 30
 outfit "Korath Banisher"
 	weapon
 		sprite ""
-		"velocity" 1770
+		velocity 1770
 outfit "Korath Fire-Lance"
 	weapon
 		sprite ""
-		"velocity" 1050
+		velocity 1050
 outfit "Korath Repeater"
 	weapon
-		"velocity" 39
+		velocity 39
 outfit "Korath Repeater Turret"
 	weapon
-		"velocity" 39
+		velocity 39
 outfit "Korath Piercer Launcher"
 	weapon
-		"velocity" 54
+		velocity 54
 outfit "Korath Detainer"
 	weapon
-		"velocity" 42
+		velocity 42
 outfit "Korath Minelayer"
 	weapon
-		"velocity" 9
+		velocity 9
 outfit "Korath Mine Submunition"
 	weapon
-		"velocity" 6
+		velocity 6
 outfit "Korath Disruptor"
 	weapon
 		sprite ""
-		"velocity" 1440
+		velocity 1440
 outfit "Korath Slicer"
 	weapon
 		sprite ""
-		"velocity" 1560
+		velocity 1560
 outfit "Korath Slicer Turret"
 	weapon
 		sprite ""
-		"velocity" 1560
+		velocity 1560
 outfit "Firelight Missile Bank"
 	weapon
-		"velocity" 12
+		velocity 12
 outfit "Firelight Turning"
 	weapon
-		"velocity" 0.3
+		velocity 0.3
 outfit "Firelight Activated"
 	weapon
-		"velocity" 9
+		velocity 9
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Wanderer
@@ -261,29 +261,29 @@ outfit "Firelight Activated"
 outfit "Sunbeam"
 	weapon
 		sprite ""
-		"velocity" 1620
+		velocity 1620
 outfit "Sunbeam Turret"
 	weapon
 		sprite ""
-		"velocity" 1620
+		velocity 1620
 outfit "Dual Sunbeam Turret"
 	weapon
 		sprite ""
-		"velocity" 1620
+		velocity 1620
 outfit "Moonbeam"
 	weapon
 		sprite ""
-		"velocity" 1470
+		velocity 1470
 outfit "Moonbeam Turret"
 	weapon
 		sprite ""
-		"velocity" 1470
+		velocity 1470
 outfit "Thunderhead Launcher"
 	weapon
-		"velocity" 12
+		velocity 12
 outfit "Thunderhead"
 	weapon
-		"velocity" 6
+		velocity 6
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Coalition
@@ -291,30 +291,30 @@ outfit "Thunderhead"
 
 outfit "Bombardment Cannon"
 	weapon
-		"velocity" 18
+		velocity 18
 outfit "Bombardment Turret"
 	weapon
-		"velocity" 18
+		velocity 18
 outfit "Finisher Pod"
 	weapon
-		"velocity" 30
+		velocity 30
 outfit "Finisher Maegrolain"
 	weapon
-		"velocity" 27
+		velocity 27
 outfit "Heliarch Attractor"
 	weapon
 		sprite ""
-		"velocity" 1920
+		velocity 1920
 outfit "Heliarch Repulsor"
 	weapon
 		sprite ""
-		"velocity" 1680
+		velocity 1680
 outfit "Ion Hail Turret"
 	weapon
-		"velocity" 36
+		velocity 36
 outfit "Ion Rain Gun"
 	weapon
-		"velocity" 48
+		velocity 48
 
 #		-	-	-	-	-	-	-	-	-	-
 #	Quarg
@@ -323,4 +323,4 @@ outfit "Ion Rain Gun"
 outfit "Quarg Skylance"
 	weapon
 		sprite ""
-		"velocity" 1500
+		velocity 1500

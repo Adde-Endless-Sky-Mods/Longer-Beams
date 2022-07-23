@@ -1,7 +1,3 @@
-#		-	-	-	-	-	-	-	-	-	-
-#	Guns
-#		-	-	-	-	-	-	-	-	-	-
-
 outfit "Korath Disruptor Gun"
 	weapon
 		sprite ""

@@ -1,15 +1,38 @@
-#		-	-	-	-	-	-	-	-	-	-
-#	Guns
-#		-	-	-	-	-	-	-	-	-	-
-
 outfit "Ares Beam"
 	weapon
-		"velocity" 800
-
-#		-	-	-	-	-	-	-	-	-	-
-#	Turrets
-#		-	-	-	-	-	-	-	-	-	-
-
+		sprite ""
+		velocity 1200
 outfit "Ares Turret"
 	weapon
-		"velocity" 800
+		sprite ""
+		velocity 1200
+outfit "Artemis Missile Launcher"
+	weapon
+		velocity 30
+outfit "Craterustig Spit"
+	weapon
+		velocity 7.5
+outfit "Dragon's Fire"
+	weapon
+		velocity 30
+outfit "Dragon's Ice"
+	weapon
+		velocity 12
+outfit "di_sub"
+	weapon
+		velocity 1.5
+outfit "di_sub_sub"
+	weapon
+		velocity 1.5
+outfit "Hypnos Turret"
+	weapon
+		velocity 9
+outfit "hypnos sub"
+	weapon
+		velocity 1.5
+outfit "Poseidon Cannon"
+	weapon
+		velocity 60
+outfit "Poseidon Turret"
+	weapon
+		velocity 60
