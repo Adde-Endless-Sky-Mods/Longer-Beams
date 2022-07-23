@@ -1,15 +1,39 @@
-#		-	-	-	-	-	-	-	-	-	-
-#	Guns
-#		-	-	-	-	-	-	-	-	-	-
-
+outfit "Alteran Drone Launcher"
+	weapon
+		velocity 6
+outfit "Alteran Drone Bay"
+	weapon
+		velocity 6
+outfit "Alteran Singular Pulse"
+	weapon
+		velocity 90
+outfit "Alteran Pulse Turret"
+	weapon
+		velocity 90
+outfit "Alteran Tri-Pulse Turret"
+	weapon
+		velocity 90
+outfit "Alteran Satellite Beam"
+	weapon
+		velocity 7500
 outfit "Alteran Plasma Beam"
 	weapon
-		velocity 1000
-
-#		-	-	-	-	-	-	-	-	-	-
-#	Turrets
-#		-	-	-	-	-	-	-	-	-	-
-
+		velocity 1500
 outfit "Alteran Plasma Turret"
 	weapon
-		velocity 1000
+		velocity 1500
+outfit "Alteran Heavy Plasma"
+	weapon
+		velocity 2100
+outfit "Alteran Heavy Plasma Turret"
+	weapon
+		velocity 2100
+outfit "Alteran Shock Turret"
+	weapon
+		velocity 60
+outfit "Alteran Gauss Cannon"
+	weapon
+		velocity 96
+outfit "Alteran Gauss Turret"
+	weapon
+		velocity 96
