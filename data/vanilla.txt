@@ -1,81 +1,313 @@
 #		-	-	-	-	-	-	-	-	-	-
-#	Guns
+#	Sheragi
 #		-	-	-	-	-	-	-	-	-	-
 
+outfit "Dragonflame Cannon"
+	weapon
+		"velocity" 6000
+outfit "Particle Waveform Turret"
+	weapon
+		"velocity" 150
+outfit "Shard Fabricator"
+	weapon
+		"velocity" 45
+outfit "Heavy Ion Cyclotron"
+	weapon
+		"velocity" 28
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Human
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Energy Blaster"
+	weapon
+		velocity 31.875
+outfit "Blaster Turret"
+	weapon
+		velocity 31.875
+outfit "Quad Blaster Turret"
+	weapon
+		velocity 31.875
+outfit "Modified Blaster"
+	weapon
+		velocity 30
+outfit "Modified Blaster Turret"
+	weapon
+		velocity 30
 outfit "Beam Laser"
 	weapon
-		"velocity" 600
-outfit "Electron Beam"
-	weapon
-		"velocity" 900
-outfit "Ember Tear"
-	weapon
-		"velocity" 1600
-outfit "Heavy Laser"
-	weapon
-		"velocity" 800
-outfit "Ka'het Ravager Beam"
-	weapon
-		"velocity" 960
-outfit "Korath Fire-Lance"
-	weapon
-		"velocity" 700
-outfit "Korath Slicer"
-	weapon
-		"velocity" 1040
-outfit "Moonbeam"
-	weapon
-		"velocity" 980
-outfit "Pug Zapper"
-	weapon
-		"velocity" 640
-outfit "Sunbeam"
-	weapon
-		"velocity" 1080
-
-#		-	-	-	-	-	-	-	-	-	-
-#	Turrets
-#		-	-	-	-	-	-	-	-	-	-
-
-outfit "Dual Sunbeam Turret"
-	weapon
-		"velocity" 1080
-outfit "Electron Turret"
-	weapon
-		"velocity" 900
-outfit "Heavy Laser Turret"
-	weapon
-		"velocity" 800
-outfit "Heliarch Attractor"
-	weapon
-		"velocity" 1280
-outfit "Heliarch Repulsor"
-	weapon
-		"velocity" 1120
-outfit "Ka'het Ravager Turret"
-	weapon
-		"velocity" 960
-outfit "Korath Banisher"
-	weapon
-		"velocity" 1180
-outfit "Korath Disruptor"
-	weapon
-		"velocity" 960
-outfit "Korath Slicer Turret"
-	weapon
-		"velocity" 1040
+		velocity 900
 outfit "Laser Turret"
 	weapon
-		"velocity" 600
-outfit "Moonbeam Turret"
+		velocity 900
+outfit "Heavy Laser"
 	weapon
-		"velocity" 980
-outfit "Pug Zapper Turret"
+		velocity 1200
+outfit "Heavy Laser Turret"
 	weapon
-		"velocity" 640
-outfit "Quarg Skylance"
+		velocity 1200
+outfit "Electron Beam"
 	weapon
-		"velocity" 1000
+		velocity 1350
+outfit "Electron Turret"
+	weapon
+		velocity 1350
+outfit "Anti-Missile Turret"
+	weapon
+		velocity 450
+outfit "Heavy Anti-Missile Turret"
+	weapon
+		velocity 600
+outfit "Particle Cannon"
+	weapon
+		velocity 90
+outfit "Proton Gun"
+	weapon
+		velocity 72
+outfit "Proton Turret"
+	weapon
+		velocity 72
+outfit "Plasma Cannon"
+	weapon
+		velocity 36
+outfit "Plasma Turret"
+	weapon
+		velocity 36
+outfit "Plasma Repeater"
+	weapon
+		velocity 36
+outfit "Flamethrower"
+	weapon
+		velocity 27
+outfit "Meteor Missile Launcher"
+	weapon
+		velocity 33
+outfit "Meteor Missile Pod"
+	weapon
+		velocity 33
+outfit "Sidewinder Missile Launcher"
+	weapon
+		velocity 42
+outfit "Sidewinder Missile Pod"
+	weapon
+		velocity 42
+outfit "Javelin Pod"
+	weapon
+		velocity 30
+outfit "Javelin Mini Pod"
+	weapon
+		velocity 30
+outfit "Torpedo Launcher"
+	weapon
+		velocity 21
+outfit "Torpedo Pod"
+	weapon
+		velocity 21
+outfit "Typhoon Launcher"
+	weapon
+		velocity 12
+outfit "Typhoon Pod"
+	weapon
+		velocity 12
+outfit "Heavy Rocket Launcher"
+	weapon
+		velocity 24
+outfit "Heavy Rocket Pod"
+	weapon
+		velocity 24
+outfit "Nuclear Missile"
+	weapon
+		velocity 18
+outfit "Gatling Gun"
+	weapon
+		velocity 48
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Hai
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Pulse Cannon"
+	weapon
+		"velocity" 45
+outfit "Pulse Turret"
+	weapon
+		"velocity" 45
+outfit "Ion Cannon"
+	weapon
+		"velocity" 48
+outfit "Railgun"
+	weapon
+		"velocity" 132
+outfit "Hai Tracker Pod"
+	weapon
+		"velocity" 42
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Remnant
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Inhibitor Cannon"
+	weapon
+		"velocity" 108
+outfit "Inhibitor Turret"
+	weapon
+		"velocity" 108
+outfit "Thrasher Cannon"
+	weapon
+		"velocity" 30
+outfit "Thrasher Turret"
+	weapon
+		"velocity" 30
+outfit "EMP Torpedo Bay"
+	weapon
+		"velocity" 21
+outfit "Ember Tear"
+	weapon
+		"velocity" 2400
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Builder
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Ka'het Nullifier"
+	weapon
+		"velocity" 27
+outfit "Ka'het Ravager Beam"
+	weapon
+		"velocity" 1440
+outfit "Ka'het Ravager Turret"
+	weapon
+		"velocity" 1440
+outfit "Ka'het Annihilator"
+	weapon
+		"velocity" 54
+outfit "Ka'het Annihilator Turret"
+	weapon
+		"range override" 1890
+		"velocity override" 54
+outfit "Annihilator Projectile"
+	weapon
+		"velocity" 54
+outfit "Ka'het EMP Deployer"
+	weapon
+		"velocity" 21
+outfit "Ka'het Emergency Deployer"
+	weapon
+		"range override" 1200
+		"velocity" 36
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Korath
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Korath Grab-Strike"
+	weapon
+		"velocity" 30
+outfit "Korath Banisher"
+	weapon
+		"velocity" 1770
+outfit "Korath Warder"
+	weapon
+		"velocity" 1050
+outfit "Korath Fire-Lance"
+	weapon
+		"velocity" 1050
+outfit "Korath Repeater"
+	weapon
+		"velocity" 39
+outfit "Korath Repeater Turret"
+	weapon
+		"velocity" 39
+outfit "Korath Piercer Launcher"
+	weapon
+		"velocity" 54
+outfit "Korath Detainer"
+	weapon
+		"velocity" 42
+outfit "Korath Minelayer"
+	weapon
+		"velocity" 9
+outfit "Korath Mine Submunition"
+	weapon
+		"velocity" 6
+outfit "Korath Disruptor"
+	weapon
+		"velocity" 1440
+outfit "Korath Slicer"
+	weapon
+		"velocity" 1560
+outfit "Korath Slicer Turret"
+	weapon
+		"velocity" 1560
+outfit "Firelight Missile Bank"
+	weapon
+		"velocity" 12
+outfit "Firelight Turning"
+	weapon
+		"velocity" 0.3
+outfit "Firelight Activated"
+	weapon
+		"velocity" 9
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Wanderer
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Sunbeam"
+	weapon
+		"velocity" 1620
 outfit "Sunbeam Turret"
 	weapon
-		"velocity" 1080
+		"velocity" 1620
+outfit "Dual Sunbeam Turret"
+	weapon
+		"velocity" 1620
+outfit "Moonbeam"
+	weapon
+		"velocity" 1470
+outfit "Moonbeam Turret"
+	weapon
+		"velocity" 1470
+outfit "Thunderhead Launcher"
+	weapon
+		"velocity" 12
+outfit "Thunderhead"
+	weapon
+		"velocity" 6
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Coalition
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Bombardment Cannon"
+	weapon
+		"velocity" 18
+outfit "Bombardment Turret"
+	weapon
+		"velocity" 18
+outfit "Finisher Pod"
+	weapon
+		"velocity" 30
+outfit "Finisher Maegrolain"
+	weapon
+		"velocity" 27
+outfit "Heliarch Attractor"
+	weapon
+		"velocity" 1920
+outfit "Heliarch Repulsor"
+	weapon
+		"velocity" 1680
+outfit "Ion Hail Turret"
+	weapon
+		"velocity" 36
+outfit "Ion Rain Gun"
+	weapon
+		"velocity" 48
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Quarg
+#		-	-	-	-	-	-	-	-	-	-
+
+outfit "Quarg Skylance"
+	weapon
+		"velocity" 1500
