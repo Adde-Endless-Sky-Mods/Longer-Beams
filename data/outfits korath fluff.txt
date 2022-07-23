@@ -1,4 +1,3 @@
 outfit "Korath Disruptor Gun"
 	weapon
-		sprite ""
-		velocity 1440
+		velocity 960

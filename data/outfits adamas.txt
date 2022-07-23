@@ -1,9 +1,9 @@
 outfit "Fractal Beam"
 	weapon
-		velocity 1350
+		velocity 900
 outfit "Fractal Beam Turret"
 	weapon
-		velocity 1350
+		velocity 900
 outfit "Needler"
 	weapon
 		velocity 39

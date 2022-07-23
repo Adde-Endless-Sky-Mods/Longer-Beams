@@ -15,19 +15,19 @@ outfit "Alteran Tri-Pulse Turret"
 		velocity 90
 outfit "Alteran Satellite Beam"
 	weapon
-		velocity 7500
+		velocity 5000
 outfit "Alteran Plasma Beam"
 	weapon
-		velocity 1500
+		velocity 1000
 outfit "Alteran Plasma Turret"
 	weapon
-		velocity 1500
+		velocity 1000
 outfit "Alteran Heavy Plasma"
 	weapon
-		velocity 2100
+		velocity 1400
 outfit "Alteran Heavy Plasma Turret"
 	weapon
-		velocity 2100
+		velocity 1400
 outfit "Alteran Shock Turret"
 	weapon
 		velocity 60

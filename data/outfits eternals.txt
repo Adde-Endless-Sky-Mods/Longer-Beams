@@ -1,11 +1,9 @@
 outfit "Ares Beam"
 	weapon
-		sprite ""
-		velocity 1200
+		velocity 800
 outfit "Ares Turret"
 	weapon
-		sprite ""
-		velocity 1200
+		velocity 800
 outfit "Artemis Missile Launcher"
 	weapon
 		velocity 30
