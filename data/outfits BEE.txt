@@ -1,0 +1,9 @@
+outfit "Accurate Gatling Blaster"
+	weapon
+		"velocity" 48
+outfit "Ionic Blaster"
+	weapon
+		"velocity" 48
+outfit "Ionic Turret"
+	weapon
+		"velocity" 48
