@@ -1,0 +1,12 @@
+outfit "Fractal Beam"
+	weapon
+		velocity 1350
+outfit "Fractal Beam Turret"
+	weapon
+		velocity 1350
+outfit "Needler"
+	weapon
+		velocity 39
+outfit "Turreted Needler"
+	weapon
+		velocity 39
