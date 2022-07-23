@@ -1,0 +1,31 @@
+outfit "Bagger Excavator"
+	weapon
+		velocity 3
+outfit "MRF-10 EM Clamp"
+	weapon
+		velocity 6
+outfit "MRF-SS Scrambler"
+	weapon
+		velocity 15
+outfit "Atesac Plasma Cannon"
+	weapon
+		velocity 90
+outfit "G22 Particle Cannon"
+	weapon
+		velocity 90
+outfit "G22 Particle Turret"
+	weapon
+		velocity 90
+outfit "M6-ACS Artillery Turret"
+	weapon
+		velocity 60
+outfit "V85 Railgun Turret"
+	weapon
+		velocity 255
+outfit "Swordfish Missile Turret"
+	weapon
+		velocity 24
+outfit "Spearfish VLS Array"
+	weapon
+		"velocity override" 3000
+		velocity 3
