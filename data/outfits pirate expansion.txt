@@ -1,0 +1,6 @@
+outfit "Javelin Turret"
+	weapon
+		"velocity" 30
+outfit "Barrage Turret"
+	weapon
+		"velocity" 30
